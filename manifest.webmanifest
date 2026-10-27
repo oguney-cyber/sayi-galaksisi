@@ -1,0 +1,23 @@
+{
+ "name": "Sayı Galaksisi",
+ "short_name": "Sayı Galaksisi",
+ "lang": "tr",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "any",
+ "background_color": "#141A3D",
+ "theme_color": "#141A3D",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
